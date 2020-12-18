@@ -21,7 +21,7 @@ namespace api_sms_tup_pay.Controllers
         [HttpGet]
         [Route("/")]
         public string Index(){
-            return "<h1>Bem vindo a API de SMS tup pay</h1>";
+            return "Bem vindo a API de SMS tup pay";
         }
 
 
